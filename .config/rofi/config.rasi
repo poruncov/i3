@@ -1,0 +1,9 @@
+configuration { 
+modi: "drun,window";
+ theme: "material";
+ font: "DejaVu 8";
+width: 35;
+ lines: 10;
+ combi-modi: "drun,window";
+ }
+
